@@ -1,7 +1,7 @@
 <p align="center">
    <img src="./src/assets/images/logo.svg" alt="Proffy" width="280"/><br/>
    <img src="./src/assets/images/landing.svg" alt="Proffy" width="280"/>
-   <img src="./src/assets/images/Study.jpg" alt="Proffy" width="280"/>
+   
    
    
 </p>
